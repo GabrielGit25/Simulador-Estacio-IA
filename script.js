@@ -241,7 +241,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         'Authorization': `Bearer ${keyToTest}`,
                         'Content-Type': 'application/json',
                         'HTTP-Referer': window.location.href,
-                        'X-Title': 'TechFlow Diagnóstico'
+                        'X-Title': 'EstaIAVa Diagnóstico'
                     },
                     body: JSON.stringify({
                         model: m,
@@ -536,7 +536,7 @@ Siga as instruções abaixo OBRIGATORIAMENTE:
                         "Authorization": `Bearer ${apiKey}`,
                         "Content-Type": "application/json",
                         "HTTP-Referer": window.location.href,
-                        "X-Title": "TechFlow Estudo"
+                        "X-Title": "EstaIAVa Estudo"
                     },
                     body: JSON.stringify({
                         "model": model,
