@@ -1,6 +1,6 @@
 # EstaIAVa
 
-IA que gera questões variadas de Redes e Segurança para estudantes da Estácio.
+IA que gera questões variadas de Redes e Segurança para estudantes.
 
 ## O que é
 
